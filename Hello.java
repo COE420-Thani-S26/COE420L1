@@ -7,4 +7,11 @@ public class Hello {
 		
 	}
 
+	public static void featureB() {
+		int a=3;
+		int b=4;
+		
+		System.out.println("Result:" + (a+b));
+	}
+
 }
